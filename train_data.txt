@@ -1,0 +1,96 @@
+Super(1)/Non-super(0)   Compounds Name   mp-ID(Note: the ones )
+1   MgB2   mp-763
+1   Nb3Ge   mp-1373
+1   Nb3Ga   mp-2670
+1   Nb3Al   mp-796
+1   Nb3Si   mp-10229
+1   Nb3Sn   mp-1326
+1   Y2C3   mp-1695
+1   V3Si   mp-2567
+1   V3Ga   mp-22568
+1   NbN   mp-1580
+1   NbRu3   mp-11517
+1   MoC   mp-2746
+1   CaSi2   mp-12892
+1   La2C3   mp-1184
+1   Mo3Os   mp-801
+1   TaN   mp-251
+1   Nb3Au   mp-2752
+1   Zr2Rh   mp-571664
+1   NbC   mp-910
+1   Nb3Pt   mp-2663
+1   ZrN   mp-1352
+1   MoRu   mp-1221386
+1   TaC   mp-1086
+1   AlV3   mp-1387
+1   TiNb   mp-1216634
+1   H3S-R3m  mp-1063678
+1   H3S-Im3m  mp-1063581
+1   Li-48GPa   
+1   S-200GPa  
+1   InV3    
+1   PdSe2-23GPa   
+1   ScTc2    
+1   CaC6   
+1   Tc   mp-113
+1   MoPRu   mp-1095073
+1   NiMoP   mp-7632
+1   PuGa5Co   mp-1206185
+1   ZrPRu   mp-1178620
+1   HfPRu   mp-15963
+1   NbPS   mp-27471
+1   ZrSiRu   mp-7544
+1   ZrAsRu   mp-8221
+1   HfPRu   mp-15963
+1   Y(BRh)4   mp-5984
+1   ZrPRu   mp-22268
+1   YB2Pd2C   mp-1024989
+1   ThB2Pd2C   mp-1025041
+1   LuNi2B2C   mp-6544
+1   YNi2B2C   mp-6576
+1   La3Ni2B2N3   mp-6114
+1   ErNi2B2C   mp-6098
+1   TmNi2B2C   mp-6754
+1   LaB2Pt2C   mp-9219
+0   MgZnAg2   mp-11236
+0   DyAgSb2   mp-10965
+0   CuAu   mp-522
+0   NiHg   mp-1008
+0   NiH   mp-24719
+0   CuO   mp-1692
+0   AgO   mp-499
+0   K2Au3   mp-8700
+0   HfAl3   mp-568718
+0   TiAl3   mp-542915
+0   TmAs   mp-1101
+0   Sc3As   mp-1186963
+0   BaSb2   mp-2196
+0   Be12Cr   mp-1590
+0   NdCd2   mp-1008865
+0   CePb3   mp-20225
+0   DyIn   mp-257
+0   Cr3Si   mp-729
+0   TbGa2   mp-2684
+0   ThHg2   mp-2215
+0   LaTl   mp-11488
+0   ScPt   mp-892
+0   TiZn   mp-1014230
+0   LuP   mp-10192
+0   HfZr   mp-983459
+0   HfIr3   mp-2126
+0   TaW3   mp-979289
+0   HfAu   mp-1007755
+0   BaAg   mp-11840
+0   SiNi2   mp-1118
+0   Ni4Mo   mp-11507
+0   MgPt   mp-12651
+0   MgPd3  mp-12742
+0   V5Si4  
+0   Ag   mp-124
+0   Au   mp-81
+0   Cu   mp-30
+0   Hf3As2 
+0   PuO   mp-806
+0   SO4   mp-1205616
+0   Pu3Au   mp-978096
+0   LiAl3   mp-10890
